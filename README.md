@@ -2,7 +2,6 @@
 A gradient class for Processing
 
 <h2>Usage</h2>
-<p>
 ```java 
   
   //Make a new gradient object with black as the lower bound and white as upper bound
@@ -22,4 +21,3 @@ A gradient class for Processing
   color c = g.getLerpColorStrong(0.8);
   
   ```
-</p>
