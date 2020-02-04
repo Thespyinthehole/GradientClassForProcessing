@@ -1,7 +1,7 @@
 # GradientClassForProcessing
 A gradient class for Processing
 
-##Usage
+## Usage
 ```java 
   
   //Make a new gradient object with black as the lower bound and white as upper bound
