@@ -3,7 +3,8 @@ A gradient class for Processing
 
 <h2>Usage</h2>
 <p>
-```java \n
+```java 
+  
   //Make a new gradient object with black as the lower bound and white as upper bound
   Gradient g = new Gradient(color(0),color(255)); 
   
