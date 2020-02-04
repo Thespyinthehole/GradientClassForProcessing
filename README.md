@@ -20,5 +20,6 @@ A gradient class for Processing
   
   //Read data with lerping, but there is an added buffer so there is a dead zone for the color
   color c = g.getLerpColorStrong(0.8);
+  
   ```
 </p>
